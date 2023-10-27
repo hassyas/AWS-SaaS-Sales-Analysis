@@ -25,7 +25,7 @@ After cloning, you can load the dataset into your preferred data analysis tool a
 
 ## Contributions
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page] if you want to contribute.
+Contributions, issues, and feature requests are welcomed.
 
 ## Acknowledgements
 
