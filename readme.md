@@ -1,6 +1,6 @@
 # SaaS Business Dataset
 
-This repository contains the dataset 'saas.csv,' an extensive log of AWS SaaS product sales, encompassing various aspects of the sales process and client details. It's instrumental for analysis related to sales performance, client management, and regional business insights for SaaS companies.
+This repository contains the dataset 'saas.csv,' an extensive log of AWS SaaS product sales, encompassing various aspects of the sales process and client details. It's instrumental for analysis related to sales performance, client management, and regional business insights for AWS.
 
 ## Dataset Composition
 
