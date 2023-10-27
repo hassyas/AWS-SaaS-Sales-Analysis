@@ -13,9 +13,9 @@ The 'clean_saas.csv' dataset includes 9,994 entries, each providing detailed inf
 - **Product Details**: Specifics about the SaaS products involved in the transactions, including the type and licensing information.
 - **Financials**: Detailed financial information about the sales, including the sales figures, applied discounts, and profit calculations.
 
-### Tableau Storyboard
+## Tableau Storyboard
 
-You can access the visualization for this data analysis through Tableau Public via the below this [link](https://public.tableau.com/views/AWSSaaSSalesAnalysis/AWSSaaSAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+You can access the visualization for this data analysis through Tableau Public via this [link](https://public.tableau.com/views/AWSSaaSSalesAnalysis/AWSSaaSAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Getting Started
 
